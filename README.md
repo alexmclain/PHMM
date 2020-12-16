@@ -6,5 +6,6 @@ Open the files "Sample_Script.R" or "Sample_Script_Pcov.R" for demonstrations of
 
 
 
-References
+# References:
+
 McLain A.C., E.A. Frongillo, E. Borghi, and J. Feng (2019). Prediction intervals for heterogeneous penalized longitudinal models with multi-source summary measures: an application to estimating child malnutrition rates. Statistics in Medicine 38:1 1002–1012.
